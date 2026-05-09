@@ -21,9 +21,7 @@
 </a>
 
 <h5>Web Development:</h5>
- <img alt="Static Badge" src="https://img.shields.io/badge/html-orange">
- <img alt="Static Badge" src="https://img.shields.io/badge/CSS-yellow">
- <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-neongreen">
+ <img alt="Static Badge" src="https://img.shields.io/badge/html-orange"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-neongreen">
 
 <h5>Database:</h5>
 <i>N/A</i>
