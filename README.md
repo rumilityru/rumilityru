@@ -19,11 +19,18 @@
 <a href = "https://www.python.org/" target = "_blank">
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-darkblue">
 </a>
-
+<div class="image-row">
 <h5>Web Development:</h5>
 <img alt="Static Badge" src="https://img.shields.io/badge/html-orange">
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS-yellow">
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-neongreen">
+</div>
+
+.image-row {
+  display: flex;
+  justify-content: center; 
+  gap: 10px;               
+}
 
 <h5>Database:</h5>
 <i>N/A</i>
