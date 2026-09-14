@@ -1,4 +1,4 @@
-<h1>꒰ঌ(˶ˆᗜˆ˵)໒꒱</h1>
+<h1 style="align-self: center">꒰ঌ(˶ˆᗜˆ˵)໒꒱</h1>
 <hr>
 <h1 align = "center">HELLO USER! ˙𐃷˙</h1>
 <i align = "center">I am Rumilityru</i>
