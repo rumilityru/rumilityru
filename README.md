@@ -1,5 +1,5 @@
 <h1 align = "center">꒰ঌ(˶ˆᗜˆ˵)໒꒱</h1>
-<hr>
+<br>
 <h1 align = "center">HELLO USER! ˙𐃷˙</h1>
 <i align = "center">I am Rumilityru</i>
 <hr>
@@ -18,25 +18,25 @@
 
 <h5>Languages:</h5>
 <a href = "https://www.w3schools.com/cpp/cpp_intro.asp" target = "_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/C++-darkblue">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C++-white">
 </a>
 
 <h5>Web Development:</h5>
-<div class="web-dev">
+<div class="web-dev" style="display: flex; align-items: center; gap: 10px;">
   </div> <img alt="Static Badge" src="https://img.shields.io/badge/html-white"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/CSS-white"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-white">
 </div>
 
 <h5>Tools:</h5>
-<div class="tools">
+<div class="tools" style="display: flex; align-items: center; gap: 10px;">
   </div><a href = "https://code.visualstudio.com/" target = "_blank">
    <img alt="Static Badge" src="https://img.shields.io/badge/VSCode-white">
   </a>
   <a href = "https://www.dev-cpp.com/" target = "_blank">
    <img alt="Static Badge" src="https://img.shields.io/badge/DevC++-white">
   </a>
-  <a href = "https://www.dev-cpp.com/" target = "_blank">
+  <a href = "https://unity.com/" target = "_blank">
    <img alt="Static Badge" src="https://img.shields.io/badge/Unity-white">
   </a>
 </div>
