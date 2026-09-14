@@ -1,4 +1,4 @@
-<img src="https://ph.pinterest.com/pin/636977941052148894/">
+<h1>꒰ঌ(˶ˆᗜˆ˵)໒꒱</h1>
 <hr>
 <h1 align = "center">HELLO USER! ˙𐃷˙</h1>
 <i align = "center">I am Rumilityru</i>
@@ -16,8 +16,8 @@
 <hr>
 <h1>TECH & TOOLS ᯤ</h1>
 <h5>Languages:</h5>
-<a href = "https://www.python.org/" target = "_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Python-darkblue">
+<a href = "https://www.w3schools.com/cpp/cpp_intro.asp" target = "_blank">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C++-darkblue">
 </a>
 
 <h5>Web Development:</h5>
