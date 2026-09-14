@@ -1,4 +1,4 @@
-<h1 style="align-self: center">꒰ঌ(˶ˆᗜˆ˵)໒꒱</h1>
+<h1 align = "center">꒰ঌ(˶ˆᗜˆ˵)໒꒱</h1>
 <hr>
 <h1 align = "center">HELLO USER! ˙𐃷˙</h1>
 <i align = "center">I am Rumilityru</i>
@@ -15,22 +15,29 @@
 </ul>
 <hr>
 <h1>TECH & TOOLS ᯤ</h1>
+
 <h5>Languages:</h5>
 <a href = "https://www.w3schools.com/cpp/cpp_intro.asp" target = "_blank">
   <img alt="Static Badge" src="https://img.shields.io/badge/C++-darkblue">
 </a>
 
 <h5>Web Development:</h5>
- <img alt="Static Badge" src="https://img.shields.io/badge/html-orange"> <img alt="Static Badge" src="https://img.shields.io/badge/CSS-yellow"> <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-neongreen">
-
-<h5>Database:</h5>
-<i>N/A</i>
+<div class="web-dev">
+  </div> <img alt="Static Badge" src="https://img.shields.io/badge/html-white"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/CSS-white"> 
+  <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-white">
+</div>
 
 <h5>Tools:</h5>
-<a href = "https://code.visualstudio.com/" target = "_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/VSCode-blue">
-</a>
-<a href = "https://www.jetbrains.com/pycharm/" target = "_blank">
-<img alt="Static Badge" src="https://img.shields.io/badge/Pycharm-green">
-</a>
+<div class="tools">
+  </div><a href = "https://code.visualstudio.com/" target = "_blank">
+   <img alt="Static Badge" src="https://img.shields.io/badge/VSCode-white">
+  </a>
+  <a href = "https://www.dev-cpp.com/" target = "_blank">
+   <img alt="Static Badge" src="https://img.shields.io/badge/DevC++-white">
+  </a>
+  <a href = "https://www.dev-cpp.com/" target = "_blank">
+   <img alt="Static Badge" src="https://img.shields.io/badge/Unity-white">
+  </a>
+</div>
   
