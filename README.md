@@ -33,6 +33,9 @@
 <a href = "https://www.w3schools.com/cpp/cpp_intro.asp" target = "_blank">
   <img alt="Static Badge" src="https://img.shields.io/badge/C++-white">
 </a>
+<a href = "https://www.python.org/" target = "_blank">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Python-white">
+</a>
 
 <h5>Web Development:</h5>
 <div class="tools" style="display: flex; align-items: center; gap: 10px;">
